@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AteLXc9/Do4=",
+  "success": true,
+  "projectFilePath": "/Users/sayidahrormirzaaxmedov/RiderProjects/OllamaBackend/OllamaBackend/OllamaBackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/sayidahrormirzaaxmedov/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/sayidahrormirzaaxmedov/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

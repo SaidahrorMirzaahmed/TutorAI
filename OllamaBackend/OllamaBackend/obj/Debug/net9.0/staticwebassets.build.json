@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P24HQX1/y9D9TulYuQMYtI1PFbptOjd1BZhDSgQ8lNQ=",
+  "Source": "OllamaBackend",
+  "BasePath": "_content/OllamaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
