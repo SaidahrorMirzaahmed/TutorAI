@@ -1,2 +1,2 @@
 # Ignore Python virtual environments
-venv/
+python_asr/venv/
