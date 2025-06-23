@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sayidahrormirzaaxmedov/RiderProjects/OllamaBackend/OllamaBackend/OllamaBackend.csproj": {}
+    "/Users/sayidahrormirzaaxmedov/TutorAI/OllamaBackend/OllamaBackend/OllamaBackend.csproj": {}
   },
   "projects": {
-    "/Users/sayidahrormirzaaxmedov/RiderProjects/OllamaBackend/OllamaBackend/OllamaBackend.csproj": {
+    "/Users/sayidahrormirzaaxmedov/TutorAI/OllamaBackend/OllamaBackend/OllamaBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sayidahrormirzaaxmedov/RiderProjects/OllamaBackend/OllamaBackend/OllamaBackend.csproj",
+        "projectUniqueName": "/Users/sayidahrormirzaaxmedov/TutorAI/OllamaBackend/OllamaBackend/OllamaBackend.csproj",
         "projectName": "OllamaBackend",
-        "projectPath": "/Users/sayidahrormirzaaxmedov/RiderProjects/OllamaBackend/OllamaBackend/OllamaBackend.csproj",
+        "projectPath": "/Users/sayidahrormirzaaxmedov/TutorAI/OllamaBackend/OllamaBackend/OllamaBackend.csproj",
         "packagesPath": "/Users/sayidahrormirzaaxmedov/.nuget/packages/",
-        "outputPath": "/Users/sayidahrormirzaaxmedov/RiderProjects/OllamaBackend/OllamaBackend/obj/",
+        "outputPath": "/Users/sayidahrormirzaaxmedov/TutorAI/OllamaBackend/OllamaBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sayidahrormirzaaxmedov/.nuget/NuGet/NuGet.Config"

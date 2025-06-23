@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OllamaBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adfb3b1ab6c4c92061c325670cf23d489bf4cb7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OllamaBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OllamaBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
